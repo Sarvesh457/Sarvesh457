@@ -1,4 +1,4 @@
-# ## 💫 About Me
+# 💫 About Me
 
 I am a Computer Science student passionate about building intelligent systems and solving complex real-world problems through technology.
 
