@@ -1,5 +1,34 @@
-# 💫 About Me:
-I am a Computer Science student with a strong focus on Artificial Intelligence, Machine Learning, Data Science, System Programming, and Backend Development.<br>I enjoy building systems that go beyond basic CRUD apps — projects that actually think, analyze, and solve problems.<br><br>My work revolves around combining data, algorithms, system-level concepts, and real-world applications to create intelligent and scalable solution
+# ## 💫 About Me
+
+I am a Computer Science student passionate about building intelligent systems and solving complex real-world problems through technology.
+
+My primary areas of interest include **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, System Programming, Natural Language Processing, and Backend Development**.
+
+I enjoy developing projects that go beyond traditional CRUD applications—systems that can learn, analyze, make decisions, and deliver meaningful insights from data.
+
+My work focuses on combining **algorithms, data-driven approaches, system-level concepts, and software engineering principles** to create scalable, efficient, and intelligent solutions.
+
+### Areas of Interest
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Deep Learning & Neural Networks
+* 📝 Natural Language Processing (NLP)
+* 🔄 Transformers & Large Language Models (LLMs)
+* 📊 Data Science & Analytics
+* ⚙️ System Programming
+* 🌐 Backend Development
+* 🏗️ Software Engineering
+
+### Current Focus
+
+* Exploring Transformer Architectures and LLMs
+* Building AI-powered applications
+* Strengthening Data Structures & Algorithms
+* Developing scalable backend systems
+* Contributing to open-source projects
+
+> "I believe the best way to learn is by building projects that solve real problems."
+
 
 
 ## 🌐 Socials:
